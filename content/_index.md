@@ -1,6 +1,6 @@
 ---
 title: Clara Latirre's Blog
-featured_image: "/images/1f9646ab-4e50-45f4-8873-376cd80824cb.heic"
+featured_image: "/images/4ec48271-ef51-453f-a445-dd3b8143a60f.JPG"
 description: Some pictures of my travels
 
 ---
